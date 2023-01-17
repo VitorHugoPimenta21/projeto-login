@@ -1,10 +1,9 @@
 @charset "UTF-8"
 
-
-
 body{
-    background-color: #042074;
+    background-color: #031449;
 }
+
 .cardlogin{
     background-image: linear-gradient(to bottom, #152659, #294aad, #10349e);
     width: 400px;
@@ -23,7 +22,7 @@ h1{
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     color: #F2F2F2;
-    margin-bottom: 50px;
+    margin-bottom: -10px;
     font-size: 5em;
 }
 

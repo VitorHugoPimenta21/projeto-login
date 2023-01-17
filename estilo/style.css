@@ -1,10 +1,10 @@
 @charset "UTF-8"
 
 
-body{
-    background-color: #0540F2;
-}
 
+body{
+    background-color: #042074;
+}
 .cardlogin{
     background-image: linear-gradient(to bottom, #152659, #294aad, #10349e);
     width: 400px;

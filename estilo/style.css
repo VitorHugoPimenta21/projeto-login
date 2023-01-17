@@ -2,14 +2,13 @@
 
 
 body{
-    background-image: linear-gradient(to bottom, #152659, #77A0F2);
-    background-attachment: fixed;
+    background-color: #152659;
 }
 
 .cardlogin{
-    background-image: linear-gradient(to bottom, #152659);
-    width: 300px;
-    height: 400px;
+    background-image: linear-gradient(to bottom, #152659, transparent);
+    width: 600px;
+    height: 800px;
     position: absolute;
     top: 50%;
     left: 50%;
